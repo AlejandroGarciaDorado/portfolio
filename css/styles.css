@@ -103,6 +103,12 @@ body {
     text-align: center;
 }
 
+img {
+    height: 20vw;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 
