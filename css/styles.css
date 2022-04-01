@@ -114,6 +114,11 @@ img {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: green;
+}
+
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 
@@ -135,5 +140,8 @@ img {
     /* column-4 pasará de tener 25% a 50% */
     .column-4 {
         width: 50%;
+    }
+    img {
+        height: 60vw;
     }
 }
