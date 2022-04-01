@@ -119,6 +119,15 @@ a {
     color: green;
 }
 
+img:hover {
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+}
+
+h1:hover {
+    color: red;
+}
+
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 
