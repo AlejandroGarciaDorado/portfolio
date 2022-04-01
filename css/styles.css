@@ -103,10 +103,15 @@ body {
     text-align: center;
 }
 
+.padding-m {
+    padding: 2.5%;
+}
+
 img {
     height: 20vw;
     object-fit: cover;
-    border-radius: 5px;
+    border-radius: 10px;
+    width: 100%;
 }
 
 
